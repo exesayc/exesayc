@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mert%20Çalışkan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20•%20Goat%20Development&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Exe%20sayc&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20•%20Goat%20Development&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 ```js
 const mert = {
-  isim:      "Mert Çalışkan",
+  isim:      "Exesayc",
   rol:       "Full-Stack Web Developer",
-  şirket:    "Goat Development 🐐",
+  şirket:    "Goat Development ",
   web:       "goatdev.com.tr",
   odak:      ["Frontend", "Backend", "Kurumsal Web Siteleri", "Web Uygulamaları"],
   diller:    ["Türkçe", "English"],
